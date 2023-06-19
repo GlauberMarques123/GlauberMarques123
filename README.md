@@ -1,0 +1,9 @@
+- 👋 Salve, eu sou o @GlauberMarques123
+- 🌱 Eu estou estudando no alura ...
+- 🥇 VAI CORINTHIANS ⚫⚪...
+- 📫 meu insta @claubaowepm013 ...
+<!---
+GlauberMarques123/GlauberMarques123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+![]
